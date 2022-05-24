@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin2</string>
+    <string name="error">Send the link first!</string>
+</resources>
